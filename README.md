@@ -1,7 +1,25 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=<Suisan-neki>)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&true&lines=Web+Developer;Automation+Enthusiast" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<Suisan-neki>)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <h1>Hi, I'm Suisan-neki 👋</h1>
+</div>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=<Suisan-neki>" alt="GitHub Trophy">
-</a>
+---
+
+### About Me
+
+- Hiroshima University
+- School of Dentistry, 2nd year student
+
+- X: [@suisan_2003](https://twitter.com/suisan_2003)
+
+---
+
+### My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suisan-neki&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suisan-neki&theme=radical" />
+</div>
