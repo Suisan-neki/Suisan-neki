@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&true&lines=Hiroshima+University;Dental+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&true&lines=Hiroshima+University;美人は3日で飽きる" />
 </div>
 
 <div align="center">
