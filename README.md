@@ -38,7 +38,3 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suisan-neki&theme=vue" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suisan-neki&layout=compact&show_icons=true&theme=vue" />
-</div>
