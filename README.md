@@ -41,5 +41,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suisan-neki&layout=compact&show_icons=true&theme=vue" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suisan-neki&theme=vue&utcOffset=9" />
 </div>
