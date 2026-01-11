@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  profiles: write
 
 jobs:
   build:
@@ -18,7 +17,7 @@ jobs:
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           USERNAME: Suisan-neki
           UTC_OFFSET: 9
