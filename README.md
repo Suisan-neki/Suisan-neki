@@ -36,5 +36,5 @@
 ### My GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suisan-neki&theme=vue" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suisan-neki&theme=vue"/>
 </div>
