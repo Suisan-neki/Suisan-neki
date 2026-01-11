@@ -2,17 +2,15 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 毎日 0:00 UTC（日本時間 朝9時）
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches: ["main"]
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # 生成物をcommit/pushするため
-
     steps:
       - uses: actions/checkout@v4
 
@@ -22,6 +20,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Suisan-neki
-          THEME: vue
+          UTC_OFFSET: 9
+          AUTO_PUSH: true
           BRANCH_NAME: main
-
