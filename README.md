@@ -39,4 +39,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suisan-neki&theme=vue"/>
 </div>
 
-[![Gitty Score](https://gitty-code.com/api/badge/${Suisan-neki}.png)](https://gitty-code.com/user/${Suisan-neki})
+[![Gitty Score](https://gitty-code.com/api/badge/Suisan-neki.png)](https://gitty-code.com/user/Suisan-neki)
