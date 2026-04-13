@@ -17,7 +17,7 @@
 <p>
 <span style="font-family: 'Comic Sans MS'; font-size: 18px; color: #3498db;">
   広島大学 <br>
-  歯学部歯学科2年
+  歯学部歯学科3年
 </span>
 </p>
 <p>
