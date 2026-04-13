@@ -23,7 +23,7 @@
 <p>
 <span style="font-family: 'Courier New'; font-size: 16px; color: #2ecc71;">
   Hiroshima University<br>
-  School of Dentistry, 2nd year student
+  School of Dentistry, 3nd year student
 </span>
 </p>
 
