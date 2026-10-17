@@ -1,44 +1,45 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&true&lines=Hiroshima+University;美人は3日で飽きる" />
-</div>
 
-<div align="center">
-  <h1>Hi, I'm Suisan-neki 👋</h1>
-</div>
+# Suisan-neki
 
-<p align="center">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/suisan_2003?style=social" />
-</p>
+広島大学 歯学部歯学科3年
+
+[Qiita](https://qiita.com/Suisan-neki) · [connpass](https://connpass.com/user/suisan_2003/) · [X](https://x.com/suisan_2003) · [Last.fm](https://www.last.fm/user/suisan_2003)
+
+<sub>美人は3日で飽きる</sub>
+
+</div>
 
 ---
 
-### <span style="font-size: 24px; font-weight: bold;">About Me</span>
+### 最近聴いている音楽
 
-<p>
-<span style="font-family: 'Comic Sans MS'; font-size: 18px; color: #3498db;">
-  広島大学 <br>
-  歯学部歯学科3年
-</span>
-</p>
-<p>
-<span style="font-family: 'Courier New'; font-size: 16px; color: #2ecc71;">
-  Hiroshima University<br>
-  School of Dentistry, 3nd year student
-</span>
-</p>
+<a href="https://www.last.fm/user/suisan_2003">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=suisan_2003&amp;count=3&amp;width=600&amp;theme=dark&amp;profile=off&amp;radius=12">
+    <img alt="最近聴いた3曲" width="600" src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=suisan_2003&amp;count=3&amp;width=600&amp;theme=light&amp;profile=off&amp;radius=12">
+  </picture>
+</a>
 
-<p>
-  X: [@suisan_2003](https://twitter.com/suisan_2003)
-</p>
+### 最近書いた記事
 
----
+<!-- QIITA:START -->
+<ul>
+<li><a href="https://qiita.com/Suisan-neki/items/cafab8fd958a80ab10ee">Rust + Raspberry Piでネットワークの低レイヤを触る(+技育博vol.2の反省)</a><br><sub>2026-09-23</sub></li>
+<li><a href="https://qiita.com/Suisan-neki/items/a51ee3df39d8edcd18f7">無停止デプロイ（ゼロダウンタイムデプロイ）とDB互換性について考える</a><br><sub>2026-09-17</sub></li>
+<li><a href="https://qiita.com/Suisan-neki/items/dd8eeb97ba75f05b568f">STORES Tech Conf 2026 “World 2” に参加しました</a><br><sub>2026-09-10</sub></li>
+</ul>
+<!-- QIITA:END -->
 
-### My GitHub Commits
+### イベント
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suisan-neki&theme=vue"/>
-</div>
+[connpassの申し込みイベント一覧](https://connpass.com/user/suisan_2003/)
 
-### My Gitty Score
+### GitHubでの活動
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suisan-neki&amp;theme=github_dark">
+  <img alt="GitHubの活動" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suisan-neki&amp;theme=github">
+</picture>
 
 [![Gitty Score](https://gitty-code.com/api/badge/Suisan-neki.png)](https://gitty-code.com/user/Suisan-neki)
