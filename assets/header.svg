@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Suisan-neki</title><desc id="desc">Hiroshima University. A navy banner with mint currents and coral details.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102031"/><stop offset="1" stop-color="#163e49"/></linearGradient>
+<linearGradient id="current"><stop stop-color="#61dbc5" stop-opacity="0"/><stop offset=".7" stop-color="#61dbc5" stop-opacity=".7"/><stop offset="1" stop-color="#61dbc5" stop-opacity=".2"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#80c5c4" opacity=".12"/></pattern>
+<clipPath id="clip"><rect width="1200" height="300" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="300" fill="url(#bg)"/>
+<rect width="1200" height="300" fill="url(#dots)"/>
+<g fill="none" stroke="url(#current)" stroke-width="1.5">
+<path d="M580 310 C740 260 700 40 890 36 S1090 155 1240 10"/>
+<path d="M610 330 C770 280 730 60 920 56 S1120 175 1270 30"/>
+<path d="M640 350 C800 300 760 80 950 76 S1150 195 1300 50"/>
+<path d="M670 370 C830 320 790 100 980 96 S1180 215 1330 70"/>
+<path d="M700 390 C860 340 820 120 1010 116 S1210 235 1360 90"/>
+<path d="M730 410 C890 360 850 140 1040 136 S1240 255 1390 110"/>
+</g>
+<rect x="54" y="49" width="34" height="4" rx="2" fill="#67dfca"/>
+<text x="54" y="100" fill="#90b9be" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3">HIROSHIMA UNIVERSITY</text>
+<text x="50" y="183" fill="#f3fbfb" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Suisan-neki<tspan fill="#ed8794">.</tspan></text>
+<text x="55" y="229" fill="#a8c4ca" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="1">Dentistry / Software / Networks</text>
+<g transform="translate(1032 150)">
+<circle r="82" fill="#102737" stroke="#63dbc5" stroke-opacity=".3"/>
+<circle r="66" fill="none" stroke="#63dbc5" stroke-opacity=".15" stroke-dasharray="3 9"/>
+<path d="M-28 -28 C-12 -50 37 -43 32 -18 C28 4 -31 -5 -32 20 C-33 47 15 52 32 28" fill="none" stroke="#67dfca" stroke-width="9" stroke-linecap="round"/>
+<circle cx="71" cy="-42" r="7" fill="#ed8794"/>
+</g>
+<path d="M0 292 H1200" stroke="#67dfca" stroke-opacity=".35" stroke-width="2"/>
+</g></svg>
