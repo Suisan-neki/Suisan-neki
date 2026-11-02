@@ -28,7 +28,6 @@
 <td width="50%" valign="top">
 <h3>関心のあること</h3>
 <p>医療分野のソフトウェア</p>
-<a href="https://qiita.com/Suisan-neki/items/cafab8fd958a80ab10ee"><sub>Rust × Raspberry Piで試したこと ↗</sub></a>
 </td>
 </tr>
 </table>
