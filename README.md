@@ -27,7 +27,7 @@
 </td>
 <td width="50%" valign="top">
 <h3>関心のあること</h3>
-<p>医療分野のソフトウェア<br>ネットワークとOSの仕組み<br>実際に動かして確かめること</p>
+<p>医療分野のソフトウェア</p>
 <a href="https://qiita.com/Suisan-neki/items/cafab8fd958a80ab10ee"><sub>Rust × Raspberry Piで試したこと ↗</sub></a>
 </td>
 </tr>
@@ -53,10 +53,6 @@
 <!-- QIITA:END -->
 
 <p align="right"><a href="https://qiita.com/Suisan-neki">記事をもっと読む ↗</a></p>
-
-### イベント
-
-<a href="https://connpass.com/user/suisan_2003/"><img alt="connpassの申し込みイベント一覧を見る" src="https://img.shields.io/badge/connpass-申し込みイベント一覧_↗-E85D75?style=for-the-badge"></a>
 
 ### GitHubでの活動
 
